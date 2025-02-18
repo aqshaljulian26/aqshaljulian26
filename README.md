@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me  
-- 🎓 Studying at **Universitas Indonesia Diploma Degree (CCIT FTUI) and Bachelor Degree Sekolah Tinggi Teknologi Informasi NIIT** (https://img.shields.io/badge/University-002147?style=for-the-badge&logo=academia&logoColor=white)  
+- 🎓 Took a Diploma Degree at Computer Software Engineering in **Universitas Indonesia** and Bachelor Degree at Computer Science and Engineering in **Sekolah Tinggi Teknologi Informasi NIIT**
 - 💻 Passionate about Frontend Development, and UI/UX design 
 - 🎯 My recent project that i have worked on **https://github.com/aqshaljulian26/BFIProject**  
 - 📖 Eager and Always learning new technologies 
@@ -22,7 +22,7 @@
 ## 🌎 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-aqshal-julian/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aqshaljulian_)
-[![Online Resume](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://resume-muhammad-aqshal.streamlit.app) 
+[![Online Resume](https://img.shields.io/badge/OnlineResume-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://resume-muhammad-aqshal.streamlit.app) 
 [![Portofolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://drive.google.com/file/d/1F0Huvs9rxP7UU7aDP4dCbp2-SMm0_-xv/view?usp=sharing) 
 
 ---
