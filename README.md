@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Muhammad Aqshal Julian, here's a few of my projects that i have been worked on from my college days until at my workplace.
+## 👋 Hello, I'm Muhammad Aqshal Julian
 
 ## 🚀 About Me  
 - 🎓 Took a Diploma Degree at Computer Software Engineering in **Universitas Indonesia** and Bachelor Degree at Computer Science and Engineering in **Sekolah Tinggi Teknologi Informasi NIIT**
