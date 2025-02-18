@@ -6,7 +6,7 @@
 - 💻 Passionate about Frontend Development, and UI/UX design 
 - 🎯 My recent project that i have worked on **https://github.com/aqshaljulian26/BFIProject**  
 - 📖 Eager and Always learning new technologies 
-- 📫 Reach me at **aqshaljulian123@gmail.com** or **LinkedIn at https://www.linkedin.com/in/muhammad-aqshal-julian/**  
+- 📫 Reach me via email at **aqshaljulian123@gmail.com** or **LinkedIn at https://www.linkedin.com/in/muhammad-aqshal-julian/**  
 
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
