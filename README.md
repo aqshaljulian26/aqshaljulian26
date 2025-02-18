@@ -1,10 +1,8 @@
-## Hi there 👋
+## 👋 Hello, I'm Muhammad Aqshal Julian, Here's a few Projects that i have been worked on from my college days and workplace.
 
-# 👋 Hello, I'm Muhammad Aqshal Julian, I'm Fresh Graduate that have a Bachelor Degree in Computer Science and Engineering. Currently i have worked on a few projects throughout my college days and workplace.
-
-![Profile Banner]([https://drive.google.com/file/d/1_j3u1t1TAMk1rndmEQ1VVyA6iJLiE1c-/view?usp=sharing]) <!-- Optional: Add a custom banner -->
 
 ## 🚀 About Me  
+- 🎓 Studying at **Universitas Indonesia Diploma Degree (CCIT FTUI) and Bachelor Degree Sekolah Tinggi Teknologi Informasi NIIT** (https://img.shields.io/badge/University-002147?style=for-the-badge&logo=academia&logoColor=white)  
 - 💻 Passionate about Frontend Development, and UI/UX design 
 - 🎯 My recent project that i have worked on **https://github.com/aqshaljulian26/BFIProject**  
 - 📖 Eager and Always learning new technologies 
