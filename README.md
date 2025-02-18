@@ -1,8 +1,8 @@
-## 👋 Hello, I'm Muhammad Aqshal Julian, Here's a few Projects that i have been worked on from my college days and workplace.
-
+## 👋 Hello, I'm Muhammad Aqshal Julian, here's a few of my projects that i have been worked on from my college days until at my workplace.
 
 ## 🚀 About Me  
 - 🎓 Took a Diploma Degree at Computer Software Engineering in **Universitas Indonesia** and Bachelor Degree at Computer Science and Engineering in **Sekolah Tinggi Teknologi Informasi NIIT**
+- 💻 Currently working at PT.BFI Finance Indonesia Tbk
 - 💻 Passionate about Frontend Development, and UI/UX design 
 - 🎯 My recent project that i have worked on **https://github.com/aqshaljulian26/BFIProject**  
 - 📖 Eager and Always learning new technologies 
@@ -15,7 +15,7 @@
 <!-- Add more tech stack badges -->
 
 
-## 🚀 Featured Projects  
+## 🚀 Current Finished Project 
 [![BFI Collector Remarks Text Classification](https://github-readme-stats.vercel.app/api/pin/?username=aqshaljulian26&repo=BFIProject&theme=radical)](https://github.com/aqshaljulian26/BFIProject)  
 <!-- Add more project cards -->
 
